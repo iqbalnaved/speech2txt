@@ -1,7 +1,3 @@
-Here is a clean, production-ready `README.md` for your GitHub repository.
-
----
-
 # Audio Transcription with Speaker Diarization using WhisperX
 
 This repository provides a complete pipeline to convert audio files into structured, paragraph-separated text transcriptions. By leveraging **WhisperX** and **PyAnnote**, it generates precise word-level timestamps and correctly attributes speech to distinct speaker names (diarization).
